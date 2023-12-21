@@ -1,2 +1,3 @@
-# demo
-this is my frist  repository
+giriraj
+kumar
+this is my first commit
